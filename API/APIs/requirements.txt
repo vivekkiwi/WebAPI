@@ -24,7 +24,7 @@ dill==0.2.5
 Django==2.2
 django-bootstrap3==10.0.1
 django-braces==1.13.0
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 django-estimators==0.2.1
 django-rest-swagger==2.2.0
 djangorestframework==3.9.2
