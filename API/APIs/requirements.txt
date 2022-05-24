@@ -113,7 +113,7 @@ spyder-kernels==0.4.4
 sqlparse==0.2.4
 tb-nightly==1.14.0a20190301
 tensorboard==1.13.1
-tensorflow==2.0.0a0
+tensorflow==2.6.4
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 testpath==0.4.2
